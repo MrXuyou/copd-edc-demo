@@ -1,0 +1,2 @@
+.platformStack,.platformPanel,.platformDetailGrid,.platformTwoCol{min-width:0}
+@media(max-width:680px){.platformPanel{overflow:hidden}.platformTableWrap{max-width:calc(100% + 30px)}}
